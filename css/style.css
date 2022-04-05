@@ -1,4 +1,19 @@
 /*comment stuff*/
 body {
     background: #0ff;
+    margin: -2px;
+}
+
+h1 {
+    background: #f0f;
+    text-align: center;
+    margin: -2px;
+}
+
+p {
+    padding: 10px;
+}
+
+h3 {
+    padding: 10px;
 }
