@@ -1,6 +1,6 @@
 /*comment stuff*/
 body {
-    background: #0ff;
+    background: #fff;
     margin: -2px;
 }
 
@@ -8,6 +8,8 @@ h1 {
     background: #f0f;
     text-align: center;
     margin: -2px;
+    padding: 50px;
+    color: #fff;
 }
 
 p {
@@ -17,4 +19,9 @@ p {
 h3 {
     padding: 10px;
     color:#f0f;
+}
+
+#grad {
+    background-image: linear-gradient(180deg, #707, #f0f);
+    transform: rotate(180deg);
 }
