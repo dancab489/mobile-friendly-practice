@@ -1,6 +1,6 @@
 /*comment stuff*/
 body {
-    background: #0ff;
+    background: #fff;
     margin: -2px;
 }
 
@@ -8,6 +8,8 @@ h1 {
     background: #f0f;
     text-align: center;
     margin: -2px;
+    padding: 50px;
+    color: #fff;
 }
 
 p {
@@ -16,6 +18,7 @@ p {
 
 h3 {
     padding: 10px;
+
 }
 
 @media only screen and (max-width: 480px) {
@@ -49,4 +52,3 @@ h3 {
         background-color: #0ff;
     }
 }
-
